@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu32288" alt="himanshu32288" /></a> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently working on <a href=https://github.com/himanshu32288/Himanshu32288/blob/main/opensourcechallenge.md">Open source chalenge</a>
 
 - 📫 How to reach me **himanshu32288@gmail.com**
 
