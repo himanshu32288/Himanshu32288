@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu32288" alt="himanshu32288" /></a> </p>
 
-- 🌱 I’m currently working on <a href="https://github.com/himanshu32288/Himanshu32288/blob/main/opensourcechallenge.md"><b>Open source chalenge</b></a> to submit 50 non-trivial pull requests in 100 days - so I may not have the free time to contribute more than once to a repository until I complete that challenge. But please feel free to reach out if you like my work and would like additional contributions from me in the future!
+- 🌱 I’m currently working on <a href="https://github.com/himanshu32288/Himanshu32288/blob/main/opensourcechallenge.md"><b>Open source chalenge</b></a> to submit <b>50 non-trivial pull requests in 100 days</b> 
 
 - 📫 How to reach me **himanshu32288@gmail.com**
 
