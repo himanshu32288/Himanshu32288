@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://kaggle.com/himanshukumar22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="himanshukumar22" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/himanshu_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xtreme20" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sanjay_kumar_time_traveller/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xtreme20" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/himanshu32288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="himanshu32288" height="30" width="40" /></a>
 </p>
 
